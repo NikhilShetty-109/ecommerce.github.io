@@ -53,7 +53,5 @@ button:hover{
 }
 .login{
     background-color: bisque;
-    width: 500px;
-    position: relative;
-    left: 400px;
+    width:auto;
 }
