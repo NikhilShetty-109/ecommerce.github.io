@@ -7,7 +7,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     background-image:url(download.jpg);
-
 }
 header{
     background-color: #333;
@@ -49,14 +48,14 @@ input{
 button{
     display: inline-block;
     padding: 8px 20px;
-    background-color: #333;
+    background-color: lightgreen;
     color: #fff;
     border: none;
     border-radius: 3px;
     cursor:pointer;
 }
 button:hover{
-    background-color:blue;
+    background-color:red;
 }
 .login{
     background-color:rgb(187, 184, 184) ;
